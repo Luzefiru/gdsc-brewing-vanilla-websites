@@ -40,6 +40,8 @@
 ## Cascading Style Sheets _(CSS)_
 
 - CSS
+  - CSS Selectors
+  - CSS Pseudo-class
 - CSS Flexbox
 - CSS Grid
 - CSS Transitions
