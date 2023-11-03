@@ -1,0 +1,32 @@
+.hero {
+  display: flex;
+  padding: 0 9rem;
+  padding-top: 7rem;
+}
+
+.hero h1 {
+  font-size: 60px;
+}
+
+.hero div {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  z-index: 2;
+  width: 50ch;
+}
+
+.hero .cta-button {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  background-color: #4762ff;
+  padding: 14px 32px;
+  border-radius: 6px;
+  width: fit-content;
+}
+
+.hero img {
+  position: absolute;
+  right: 0;
+}

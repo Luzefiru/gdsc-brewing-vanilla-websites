@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  padding: 2rem 9rem;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+}
+
+header .links {
+  display: flex;
+  gap: 48px;
+}
+
+header .links a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+header .cta-button {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  background-color: #4762ff;
+  padding: 12px 32px;
+  border-radius: 6px;
+}
