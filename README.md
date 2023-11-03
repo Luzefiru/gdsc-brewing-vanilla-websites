@@ -2,6 +2,17 @@
 
 > A workshop designed for GDSC members to master the art of creating stunning websites using HTML and CSS. Enhance your web development skills with us!
 
+## Installation
+
+This requires you to have [git](https://git-scm.com/downloads) and [Visual Studio Code](https://code.visualstudio.com/download) so that you can use the `git` and `code` commands.
+
+```bash
+git clone https://github.com/Luzefiru/gdsc-brewing-vanilla-websites.git &&
+cd gdsc-brewing-vanilla-websites &&
+git checkout 0-start &&
+code .
+```
+
 ## Tools of the Trade
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
