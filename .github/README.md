@@ -1,5 +1,7 @@
 # GDSC Brewing Vanilla Websites
 
+<img src="banner.png" />
+
 > A workshop designed for GDSC members to master the art of creating stunning websites using HTML and CSS. Enhance your web development skills with us!
 
 ## Installation
